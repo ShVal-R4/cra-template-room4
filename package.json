@@ -1,0 +1,9 @@
+{
+    "name": "cra-template-room4",
+    "version": "1.0.0",
+    "main": "template.json",
+    "files": [
+        "template",
+        "template.json"
+    ]
+}
