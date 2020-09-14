@@ -1,9 +1,27 @@
 {
     "name": "cra-template-room4",
     "version": "1.0.0",
-    "main": "template.json",
-    "files": [
+    "keywords": [
+        "react",
+        "create-react-app",
+        "template"
+      ],
+      "description": "Room4 template for Create React App.",
+      "main": "template.json",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/ShVal-R4/cra-template-room4.git",
+        "directory": "packages/cra-template"
+      },
+      "license": "MIT",
+      "engines": {
+        "node": ">=10"
+      },
+      "bugs": {
+        "url": "https://github.com/ShVal-R4/cra-template-room4/issues"
+      },
+      "files": [
         "template",
         "template.json"
-    ]
+      ]
 }
